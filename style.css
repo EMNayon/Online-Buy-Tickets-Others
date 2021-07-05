@@ -179,6 +179,10 @@ html, body {
 .btn-primay:hover {
     background-color: #2D9CDB;
 }
-.shop-item {
-    margin: 50px;
+.shop-item1 {
+   float: left;
 }
+.shop-item2 {
+    float: left;
+ }
+ 
